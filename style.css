@@ -65,6 +65,27 @@ section {
     background: #007bbf;
 }
 
+.projeto-background{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#projeto-um{
+    background-image: url(Lista\ de\ tarefas.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#projeto-dois{
+    background-image: url(BARBOSINHA_LAPTOP.png);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
 footer {
     background-color: #1e2a38;
     color: white;
