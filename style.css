@@ -112,5 +112,10 @@ footer {
     list-style: none;
 }
 
+#contato ul li a{
+    text-decoration: none;
+    color: var(--cor-texto-primaria);
+}
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
