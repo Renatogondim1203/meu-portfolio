@@ -95,6 +95,13 @@ section {
     background-repeat: no-repeat;
 }
 
+#projeto-tres{
+    background-image: url(starbucks_ipad.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
 footer {
     background-color: var(--cor-bar-e-bottons-secundaria);
     color: var(--cor-texto-secundaria);
